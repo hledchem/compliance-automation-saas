@@ -1,1 +1,2 @@
-frontend for compliance saas
+# Frontend
+Next.js dashboard for compliance automation SaaS.
